@@ -1,0 +1,10 @@
+# Ignorar arquivos compilados e pastas de build do Java/Eclipse
+/bin/
+.classpath
+.project
+.settings/
+*.class
+
+# Ignorar arquivos compactados e temporários
+*.zip
+*.log
